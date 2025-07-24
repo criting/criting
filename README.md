@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Galabin
 
-<!--
-**criting/criting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the creator of [CodeTimer.dev](https://codetimer.dev) — a platform that turns your coding time into collectible rewards.
 
-Here are some ideas to get you started:
+- 🔥 Building focus tools with fun
+- 🧠 Developer. Designer. Indie Hacker.
+- 💬 Always happy to chat or collab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+[![CodeTimer](https://img.shields.io/badge/CODETIMER.DEV-Track%20Code%20&%20Earn%20Cards-blue)](https://codetimer.dev)
+
+[![criting CodeTimer profile](https://codetimer.dev/card/criting/og.png?timestamp=1753362015)](https://codetimer.dev/u/criting)
